@@ -1,0 +1,8 @@
+Flask
+joblib
+numpy
+scikit-learn
+Gunicorn
+requests
+pandas
+tensorflow==2.16.1
